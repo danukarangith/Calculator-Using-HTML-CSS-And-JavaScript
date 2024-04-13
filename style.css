@@ -1,6 +1,10 @@
-#calculator{
+.calculator{
     font-family: arial,sans-serif;
-    
+    background-color: hsl(0, 0%, 15%);
+    border-radius: 15px;
+    max-width: 500px;
+    overflow: hidden;
+
 
 }
 #keys{

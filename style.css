@@ -19,7 +19,7 @@ body{
     padding: 20px;
     font-size: 5rem;
     text-align: left;
-    border: 2px solid black;
+    border:  none;
     background-color: antiquewhite;
 }
 #keys{

@@ -1,4 +1,10 @@
-
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
 .calculator{
     font-family: arial,sans-serif;
     background-color: hsl(0, 0%, 15%);

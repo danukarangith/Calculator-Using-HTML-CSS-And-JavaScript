@@ -4,6 +4,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
+    
 }
 .calculator{
     font-family: arial,sans-serif;
@@ -11,6 +12,7 @@ body{
     border-radius: 15px;
     max-width: 500px;
     overflow: hidden;
+    
 
 
 }
@@ -41,7 +43,10 @@ button{
     
 }
 .use{
-    background-color: green;
+    background-color: hsl(120, 100%, 35%);
+}
+.use:hover{
+    background-color: hsl(120, 100%, 45%);
 }
 button:hover{
     background-color: hsl(0, 0%, 40%) ;

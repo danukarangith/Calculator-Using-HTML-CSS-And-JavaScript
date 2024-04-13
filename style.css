@@ -60,7 +60,7 @@ button:active{
     background-color: hsl(0, 0%, 50%) ;
 }
 .operator{
-    background-color:hsl(16, 100%, 50%);
+    background-color:hsl(16, 100%, 60%);
 }
 .operator:hover{
     background-color:hsl(16, 100%, 40%);

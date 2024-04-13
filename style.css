@@ -20,7 +20,7 @@ body{
     font-size: 5rem;
     text-align: left;
     border:  none;
-    background-color: antiquewhite;
+    background-color: hsl(0, 0%, 30%);
     color: black;
 }
 #keys{

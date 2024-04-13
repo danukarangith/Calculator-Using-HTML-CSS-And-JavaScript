@@ -38,3 +38,6 @@ button{
     font-weight: bold;
     
 }
+button:hover{
+    background-color: hsl(0, 0%, 40%) ;
+}

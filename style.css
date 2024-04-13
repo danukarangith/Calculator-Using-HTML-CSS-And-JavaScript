@@ -1,3 +1,4 @@
+
 .calculator{
     font-family: arial,sans-serif;
     background-color: hsl(0, 0%, 15%);
@@ -6,6 +7,13 @@
     overflow: hidden;
 
 
+}
+#display{
+    width: 100%;
+    padding: 20px;
+    font-size: 5rem;
+    text-align: left;
+    border: none;
 }
 #keys{
     display: grid;

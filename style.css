@@ -19,7 +19,8 @@ body{
     padding: 20px;
     font-size: 5rem;
     text-align: left;
-    border: none;
+    border: 2px solid black;
+    background-color: antiquewhite;
 }
 #keys{
     display: grid;
